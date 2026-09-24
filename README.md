@@ -1,4 +1,4 @@
-# Computer-Architecture
+# Computer-Architecture and Operating System Repo
 
 Repo for Class tasks , assignments etc...
 
